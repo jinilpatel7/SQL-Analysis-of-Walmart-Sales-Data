@@ -38,9 +38,9 @@ Most Revenue-Generating Customer Type: I identified which customer type brought 
 
 City with Largest VAT Percent: The city with the highest VAT percentage was found, indicating where tax burdens might be highest or sales tax rates are steeper.
 
-REFERENCE: https://github.com/Princekrampah/WalmartSalesAnalysis
-
 Customer Type Paying Most VAT: This query revealed which type of customer pays the most in VAT, giving further financial insight into tax revenue distribution.
 
 Business Value of the Analysis
 This analysis helps decision-makers understand product performance, customer behavior, and financial outcomes at a granular level. With insights into the most profitable product lines, customer types, gender preferences, and high-performing branches, businesses can refine their marketing, stocking, and operational strategies to drive greater profitability and customer satisfaction.
+
+REFERENCE: https://github.com/Princekrampah/WalmartSalesAnalysis
